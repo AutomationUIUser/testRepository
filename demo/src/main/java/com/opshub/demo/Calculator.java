@@ -7,5 +7,5 @@ public class Calculator {
 	}
 }
 //code level comment added
-//Feedback commit
+//Feedback commit.
 
