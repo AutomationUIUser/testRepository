@@ -6,6 +6,5 @@ public class Calculator {
 		return a+b;
 	}
 }
- Error
 //Code level coment added.
 //This is a comment
