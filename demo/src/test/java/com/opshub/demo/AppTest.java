@@ -13,7 +13,7 @@ public class AppTest
 
 	public static int EXPECTED_RESULT = 5;
 	/**
-     * Create the test case
+     * Create the test case for demo
      *
      * @param testName name of the test case
      */
