@@ -7,6 +7,7 @@ import junit.framework.TestSuite;
 /**
 * add
 * commit
+* wfsf
  * Unit test for simple App.
  */
 public class AppTest 
