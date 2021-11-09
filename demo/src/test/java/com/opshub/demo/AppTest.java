@@ -5,6 +5,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
+* adddddd
  * Unit test for simple App.
  */
 public class AppTest 
@@ -27,6 +28,7 @@ public class AppTest
      */
     public static Test suite()
     {
+	system.out.println("Hi");
         return new TestSuite( AppTest.class );
     }
 
