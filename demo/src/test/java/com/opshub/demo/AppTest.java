@@ -6,6 +6,7 @@ import junit.framework.TestSuite;
 
 /**
 * add
+* commit
  * Unit test for simple App.
  */
 public class AppTest 
