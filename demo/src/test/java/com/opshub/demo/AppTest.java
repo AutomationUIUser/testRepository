@@ -5,10 +5,6 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
-* add
-* commit
-* fff
-* wfsf
  * Unit test for simple App.
  */
 public class AppTest 
