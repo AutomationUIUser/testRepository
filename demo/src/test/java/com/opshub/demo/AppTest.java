@@ -11,7 +11,7 @@ public class AppTest
     extends TestCase
 {
 
-	public static int EXPECTED_RESULT = 5;
+	public static int EXPECTED_RESULT = 10;
 	/**
      * Create the test case for demo
      *
@@ -27,7 +27,9 @@ public class AppTest
      */
     public static Test suite()
     {
-	system.out.println("Hello");
+	system.out.println("Hi");
+	system.out.println("Adding commit for a User story");
+	
         return new TestSuite( AppTest.class );
     }
 
