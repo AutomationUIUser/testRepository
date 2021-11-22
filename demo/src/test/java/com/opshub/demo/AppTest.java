@@ -28,7 +28,7 @@ public class AppTest
     public static Test suite()
     {
 	system.out.println("Hi");
-	system.out.println("Adding commit for a Bug");
+	system.out.println("Adding commit for a Bug 32640 for a demo purpose");
 	
         return new TestSuite( AppTest.class );
     }
