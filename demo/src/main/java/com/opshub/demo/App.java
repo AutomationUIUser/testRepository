@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hey committting  User Story" );
+        System.out.println( "Hey   User Story" );
     }
 }
