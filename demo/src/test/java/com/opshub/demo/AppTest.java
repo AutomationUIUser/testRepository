@@ -11,7 +11,7 @@ public class AppTest
     extends TestCase
 {
 
-	public static int EXPECTED_RESULT = 10;
+	public static int EXPECTED_RESULT = 5;
 	/**
      * Create the test case for demo
      *
