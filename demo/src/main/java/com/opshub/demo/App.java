@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "ID:
-ODP-2473 Story updated" );
+ODP-2473 Story updated on Feb-9" );
     }
 }
