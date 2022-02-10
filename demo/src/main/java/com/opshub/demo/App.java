@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hey ID: ODP-2478 Story updated" );
+        System.out.println( "Hey ID: ODP-2481 Story updated" );
     }
 }
