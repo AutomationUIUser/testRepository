@@ -1,2 +1,1 @@
-# testRepository
-This is a test repository
+#{917377CC-4743-4888-9D06-429D9EC32D21}
